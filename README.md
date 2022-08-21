@@ -36,11 +36,11 @@ Now, navigate to your browsers extension page.
 ### FAQ
 **Why are there... questionable ads on your website?**
 
-*I need money.*
+*I need money. You don't need to click on the ads. Do not trust any pop-ups/ads. I'm not responsible for any type of damage on our device.*
 
-**I CAN JUST WAIT  TO GET REDIRECTED LOLOLOLOL**
+**I CAN JUST WAIT TO GET REDIRECTED LOLOLOLOL**
 
-***You don't need to click on the ads.*** *but if you want to support me, please don't and turn off your adblocker on our website. We really need money, and our ads are the only way we can continue our project.*
+***You don't need to click on the ads.*** *but if you want to support me, please turn off your adblocker on our website. We really need money, and our ads are the only way we can continue our project.*
 
 Is the extension available in the Chrome web store?
 
