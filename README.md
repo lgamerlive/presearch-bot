@@ -1,6 +1,7 @@
 # Presearch bot (Cleo)
 > ©️ 2022 NOVA technologies LLC
-A open-source, easy to use bot to make money with [presearch](https://presearch.com/signup?rid=4334054)
+>
+> A open-source, easy to use bot to make money with [presearch](https://presearch.com/signup?rid=4334054)
 
 FILES COMING SOON
 
