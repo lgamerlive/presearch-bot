@@ -34,12 +34,15 @@ Now, navigate to your browsers extension page.
    To use the extension, click on the ![Globgloglablalab](https://i.vgy.me/00pRY9.png) on the right top of your screen. Now, click on the ![The "N" from nig...](https://i.vgy.me/TAFsTk.png) icon. 
 ### FAQ
 **Why are there... questionable ads on your website?**
+
 *I need money.*
 
 **I CAN JUST WAIT  TO GET REDIRECTED LOLOLOLOL**
+
 ***You don't need to click on the ads.*** *but if you want to support me, please don't and turn off your adblocker on our website. We really need money, and our ads are the only way we can continue our project.*
 
 Is the extension available in the Chrome web store?
+
 *No, and it probaly never will be.*
 
 ### Known issues
