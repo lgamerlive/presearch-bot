@@ -1,0 +1,28 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "NOVA's Presearch bot (Cleo)",
+  "version": "0.0.1",
+  "options_page": "options.html",
+  "description": "Made by LgamerLIVE - automates the Presearch process until you get ratelimited",
+  "background": {
+    "scripts": ["back.js"],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": ["options.js"],
+      "matches": ["<all_urls>"],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": { "16": "16icon.png", "128": "128icon.png" },
+  "browser_action": {
+    "default_icon": {
+      "16": "16icon.png"
+    },
+    "default_popup": "popup.html"
+  }
+}

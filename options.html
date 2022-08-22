@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Options</title>
+    <link rel="stylesheet" type="text/css" href="options.css" />
+  </head>
+  <body>
+    <ul id="options-list">
+      <li id="site-list" class="option">
+        Remove or modify a site from the list:
+        <ul id="sites"></ul>
+      </li>
+      <li id="timer-list" class="option">
+        Remove or modify a timer:
+        <ul id="timers"></ul>
+      </li>
+      <li id="default-start-time" class="option" style="text-align: left">
+        <label>
+          Set default start time:<br />
+          <input type="time" id="start-time" />
+          <button type="button" class="button" id="start-time-button">
+            Confirm
+          </button>
+        </label>
+      </li>
+      <li id="default-end-time" class="option" style="text-align: left">
+        <label>
+          Set default end time:<br />
+          <input type="time" id="end-time" />
+          <button type="button" class="button" id="end-time-button">
+            Confirm
+          </button>
+        </label>
+      </li>
+    </ul>
+    <script type="text/javascript" src="options.js"></script>
+  </body>
+</html>
