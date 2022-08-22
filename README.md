@@ -3,10 +3,15 @@
 
 ### Map
 [Introduction](https://github.com/lgamerlive/presearch-bot#introduction)
+
 [Installation](https://github.com/lgamerlive/presearch-bot#installation)
-[Using the extension](https://github.com/lgamerlive/presearch-bot#using-the-extension)\
+
+[Using the extension](https://github.com/lgamerlive/presearch-bot#using-the-extension)
+
 [Known issues](https://github.com/lgamerlive/presearch-bot#known-issues)
+
 [Support](https://github.com/lgamerlive/presearch-bot#known-issues)
+
 [Legal note](https://github.com/lgamerlive/presearch-bot#known-issues)
 
 ### Introduction
