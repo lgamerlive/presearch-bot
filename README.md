@@ -1,13 +1,11 @@
 # Presearch bot (Cleo)
 > A open-source, easy to use bot to make money with [presearch](https://presearch.com/signup?rid=4334054)
 
-FILES COMING SOON
-
 ### Introduction
 Hello, world!
 
 Not that long ago, [Presearch](https://presearch.com/signup?rid=4334054) got announced to the world, a search engine what gives you free crypto.
-The search engine it selves sucks, but what I invented doesn't. This is Cleo, the Presearch bot. The only working one (currently). Why did I call it Cleo? I don't know.
+The search engine it selves sucks, but what I made doesn't. This is Cleo, the Presearch bot. The only working one (currently). Why did I call it Cleo? I don't know.
 
 This tool allows you to:
 
