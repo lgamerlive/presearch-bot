@@ -1,6 +1,4 @@
 # Presearch bot (Cleo)
-> ©️ 2022 NOVA technologies LLC
->
 > A open-source, easy to use bot to make money with [presearch](https://presearch.com/signup?rid=4334054)
 
 FILES COMING SOON
@@ -54,3 +52,8 @@ Is the extension available in the Chrome web store?
 
 ### Need more help?
 I am active on Discord (@LgamerLIVE#6329) and in the [issues tab](https://github.com/lgamerlive/presearch-bot/issues)
+
+### Legal note
+It's not allowed to use this tool for illegal activities. This tool is made for educational purposes.
+Reselling/copying this program is **not allowed.**
+> ©️ 2022 NOVA technologies LLC
