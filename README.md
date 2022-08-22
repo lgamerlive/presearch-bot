@@ -1,6 +1,14 @@
 # Presearch bot (Cleo)
 > A open-source, easy to use bot to make money with [presearch](https://presearch.com/signup?rid=4334054)
 
+### Map
+[Introduction](https://github.com/lgamerlive/presearch-bot#introduction)
+[Installation](https://github.com/lgamerlive/presearch-bot#installation)
+[Using the extension](https://github.com/lgamerlive/presearch-bot#using-the-extension)\
+[Known issues](https://github.com/lgamerlive/presearch-bot#known-issues)
+[Support](https://github.com/lgamerlive/presearch-bot#known-issues)
+[Legal note](https://github.com/lgamerlive/presearch-bot#known-issues)
+
 ### Introduction
 Hello, world!
 
