@@ -24,6 +24,7 @@ This tool allows you to:
 
  - Earn money without doing anything
  - Bypass the rate limits
+ - Earn up to 2.5 PRE every day
  - And that's it. Yeah, I didn't knew anything else to put here lol
  
  ### Installation
