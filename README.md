@@ -31,7 +31,7 @@ This tool allows you to:
 Just wanted to say, if you enjoyed my project, please consider using my [referral link](https://presearch.com/signup?rid=4334054).
 
 -----------
-To start, download the latest [release](https://github.com/lgamerlive/presearch-bot/releases/new) from my GitHub page and download it. Unzip the file and put the files in a folder (see [this](https://i.vgy.me/VADfFk.png) image, if you even need help with that).
+To start, download the latest [release](https://github.com/lgamerlive/presearch-bot/releases/latest) from my GitHub page and download it. Unzip the file and put the files in a folder (see [this](https://i.vgy.me/VADfFk.png) image, if you even need help with that).
 Now, navigate to your browsers extension page.
 
     Chrome/Chromium-based browsers: chrome://extensions/
