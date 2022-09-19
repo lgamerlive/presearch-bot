@@ -7,7 +7,7 @@
     "description": "Made by LgamerLIVE - automates the Presearch process until you get ratelimited",
     "background": {
         "scripts": ["./js/back.js"],
-        "persistent": false
+        "persistent": true
     },
     "content_scripts": [
         {
