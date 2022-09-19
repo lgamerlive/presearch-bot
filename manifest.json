@@ -1,28 +1,32 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
-  "manifest_version": 2,
-  "name": "NOVA's Presearch bot (Cleo)",
-  "version": "0.0.1",
-  "options_page": "options.html",
-  "description": "Made by LgamerLIVE - automates the Presearch process until you get ratelimited",
-  "background": {
-    "scripts": ["back.js"],
-    "persistent": true
-  },
-  "content_scripts": [
-    {
-      "all_frames": true,
-      "js": ["options.js"],
-      "matches": ["<all_urls>"],
-      "run_at": "document_start"
-    }
-  ],
-  "icons": { "16": "16icon.png", "128": "128icon.png" },
-  "browser_action": {
-    "default_icon": {
-      "16": "16icon.png"
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "manifest_version": 2,
+    "name": "NOVA's Presearch bot (Cleo)",
+    "version": "0.0.1",
+    "options_page": "options.html",
+    "description": "Made by LgamerLIVE - automates the Presearch process until you get ratelimited",
+    "background": {
+        "scripts": ["./js/back.js"],
+        "persistent": false
     },
-    "default_popup": "popup.html"
-  }
+    "content_scripts": [
+        {
+            "all_frames": true,
+            "js": ["./js/options.js"],
+            "matches": ["<all_urls>"],
+            "run_at": "document_start"
+        }
+    ],
+    "icons": {
+        "16": "./assets/img/16icon.png",
+        "64": "./assets/img/64icon.png",
+        "128": "./assets/img/128icon.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "16": "./assets/img/16icon.png"
+        },
+        "default_popup": "popup.html"
+    },
+    "permissions": ["storage"]
 }
