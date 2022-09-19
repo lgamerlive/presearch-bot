@@ -97,7 +97,6 @@ _No, and it probaly never will be._
 
 
 ## Need more help?
----
 
 I am active on Discord (@LgamerLIVE#6329) and in the [issues tab](https://github.com/lgamerlive/presearch-bot/issues)
 <br/>
@@ -108,7 +107,7 @@ I am active on Discord (@LgamerLIVE#6329) and in the [issues tab](https://github
 It's not allowed to use this tool for illegal activities. This tool is made for educational purposes.
 Reselling/copying this program is **not allowed.**
 <br/>
-
+<br/>
 
 > ©️ 2022 NOVA technologies LLC
 
