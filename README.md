@@ -8,7 +8,7 @@
   <a href="https://github.com/lgamerlive/presearch-bot">
     <img src="./assets/img/128icon.png" alt="Logo" width="80" height="80">
   </a>
-  <h1 align="center">Presearch bot (Cleo)</h1>
+  <h2 align="center">Presearch bot (Cleo)</h2>
   <p align="center">
    A open-source, easy to use bot to make money with 
    <a href="https://presearch.com/signup?rid=4334054">presearch</a>
@@ -34,8 +34,6 @@
 
 ## Introduction
 
----
-
 Hello, world!
 
 Not that long ago, [Presearch](https://presearch.com/signup?rid=4334054) got announced to the world, a search engine what gives you free crypto.
@@ -48,11 +46,9 @@ This tool allows you to:
 -   Earn up to 2.5 PRE every day
 -   And that's it. Yeah, I didn't knew anything else to put here lol
 <br/>
-<br/>
 
 
 ## Installation
----
 
 Just wanted to say, if you enjoyed my project, please consider using my [referral link](https://presearch.com/signup?rid=4334054).
 
@@ -68,19 +64,15 @@ Select "Load Unpacked"
 ![Does anybody read this?](https://i.vgy.me/1xmnQz.png)
 And choose the folder where you unzipped the files to.
 <br/>
-<br/>
 
 
 ## Using the extension
----
 
 To use the extension, click on the ![Globgloglablalab](https://i.vgy.me/00pRY9.png) on the right top of your screen. Now, click on the ![The "N" from nig...](https://i.vgy.me/TAFsTk.png) icon.
-<br/>
 <br/>
 
 
 ## FAQ
----
 
 **Why are there... questionable ads on your website?**
 
@@ -94,16 +86,13 @@ Is the extension available in the Chrome web store?
 
 _No, and it probaly never will be._
 <br/>
-<br/>
 
 
 ## Known issues
----
 
 -   The logo looks shit
 -   There isn't a stop button (for now, please restart your browser)
 -   Settings doesn't work
-<br/>
 <br/>
 
 
@@ -112,15 +101,12 @@ _No, and it probaly never will be._
 
 I am active on Discord (@LgamerLIVE#6329) and in the [issues tab](https://github.com/lgamerlive/presearch-bot/issues)
 <br/>
-<br/>
 
 
 ## Legal note
----
 
 It's not allowed to use this tool for illegal activities. This tool is made for educational purposes.
 Reselling/copying this program is **not allowed.**
-<br/>
 <br/>
 
 
